@@ -1,0 +1,40 @@
+// Huffman Code Tree
+digraph {
+	"n_e_ _i_o_l_w_g_p_a"
+	"n_e_ _i"
+	"n_e_ _i_o_l_w_g_p_a" -> "n_e_ _i"
+	n_e
+	"n_e_ _i" -> n_e
+	n
+	n_e -> n
+	e
+	n_e -> e
+	" _i"
+	"n_e_ _i" -> " _i"
+	" "
+	" _i" -> " "
+	i
+	" _i" -> i
+	o_l_w_g_p_a
+	"n_e_ _i_o_l_w_g_p_a" -> o_l_w_g_p_a
+	o_l
+	o_l_w_g_p_a -> o_l
+	o
+	o_l -> o
+	l
+	o_l -> l
+	w_g_p_a
+	o_l_w_g_p_a -> w_g_p_a
+	w_g
+	w_g_p_a -> w_g
+	w
+	w_g -> w
+	g
+	w_g -> g
+	p_a
+	w_g_p_a -> p_a
+	p
+	p_a -> p
+	a
+	p_a -> a
+}

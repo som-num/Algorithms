@@ -1,0 +1,24 @@
+// Huffman Code Tree
+digraph {
+	g_o_a_h_d_t
+	g_o
+	g_o_a_h_d_t -> g_o
+	g
+	g_o -> g
+	o
+	g_o -> o
+	a_h_d_t
+	g_o_a_h_d_t -> a_h_d_t
+	a_h
+	a_h_d_t -> a_h
+	a
+	a_h -> a
+	h
+	a_h -> h
+	d_t
+	a_h_d_t -> d_t
+	d
+	d_t -> d
+	t
+	d_t -> t
+}
